@@ -31,6 +31,6 @@ I'm a professional software developer, who's specialized in giving solutions for
 - HTML.
 - CSS.
 - Front-end development (basic).
-- English language (quite fluent).
+- English language (fluent).
 - Spanish language (native).
 - Hardworking and communicative.
